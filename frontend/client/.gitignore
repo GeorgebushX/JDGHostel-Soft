@@ -1,7 +1,5 @@
 # Ignore node_modules globally
-node_modules/
-backend/node_modules/
-frontend/client/node_modules/
+/node_modules
 
 # Logs
 logs
