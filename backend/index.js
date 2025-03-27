@@ -11,7 +11,7 @@ dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Import routes
+// Import routers
 import authRouter from './Routes/auth.js';
 import floorRouter from './Routes/floor.js';
 import roomRouter from './Routes/roomRoute.js';
